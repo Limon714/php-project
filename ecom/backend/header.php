@@ -36,11 +36,8 @@
                     <span>Categories</span>
                 </a>
                 <ul>
-                    <li><a href="chartjs.html">ChartJS</a></li>
-                    <li><a href="apex_chart.html">Apex Charts</a></li>
-                    <li><a href="chart_sparkline.html">Chart sparkline</a></li>
-                    <li><a href="am_chart.html">am-charts</a></li>
-                    <li><a href="nvd3_charts.html">nvd3 charts.</a></li>
+                    <li><a href="add-categories.php">Add Categories</a></li>
+                    <li><a href="view-categories.php">View Categories</a></li>
                 </ul>
             </li>
             
